@@ -4,7 +4,7 @@
 //
 //  Created by iboicenco on 8/18/14.
 //  Copyright (c) 2014 iboicenco. All rights reserved.
-//
+//  This is the view controller implementation file
 
 #import "ViewController.h"
 
@@ -15,7 +15,7 @@
     AVAudioRecorder *soundRecorder;
     AVAudioSession *session;
     NSString *soundPath;
-    NSString *sound;
+    //NSString *sound;
 }
 
 @end
